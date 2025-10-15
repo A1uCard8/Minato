@@ -1,0 +1,2 @@
+python cli/minato.py --optimize my_model.pt
+python cli/minato.py --run optimized_model.pth
